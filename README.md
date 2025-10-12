@@ -4,10 +4,12 @@ I will be using this repo as a place where I can add learning projects that i ma
 I will update this file with the libraries i am currently learning/have learnt and will have a separate folder for each.
 
 ## Learning:
-- [ ] Numpy
 - [ ] Pandas
-- [ ] Matplotlib
 - [ ] Seaborn
+- [ ] Astropy
+- [ ] Scikit-learn
 
 ## Learnt:
-- [x] Basic to intermediate python 
+- [x] Basic to intermediate python
+- [x] Numpy
+- [x] Matplotlib
