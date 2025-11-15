@@ -8,6 +8,7 @@ I will update this file with the libraries i am currently learning/have learnt a
 - [ ] PyTorch
 - [ ] NLP
 - [ ] CV
+- [ ] Biopython
 
 ## Learnt:
 - [x] Basic to intermediate python
