@@ -6,9 +6,9 @@ I will update this file with the libraries i am currently learning/have learnt a
 ## Learning:
 - [ ] Scikit-learn
 - [ ] PyTorch
-- [ ] NLP
-- [ ] CV
 - [ ] Biopython
+- [ ] Geopandas
+- [ ] Rasterio
 
 ## Learnt:
 - [x] Basic to intermediate python
