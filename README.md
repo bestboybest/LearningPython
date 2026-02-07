@@ -4,11 +4,8 @@ I will be using this repo as a place where I can add learning projects that i ma
 I will update this file with the libraries i am currently learning/have learnt and will have a separate folder for each.
 
 ## Learning:
-- [ ] Scikit-learn
 - [ ] PyTorch
 - [ ] Biopython
-- [ ] Geopandas
-- [ ] Rasterio
 
 ## Learnt:
 - [x] Basic to intermediate python
@@ -16,4 +13,7 @@ I will update this file with the libraries i am currently learning/have learnt a
 - [x] Matplotlib
 - [x] Astropy
 - [x] Pandas
-- [x] Seaborn  
+- [x] Seaborn
+- [x] Scikit-learn
+- [x] Geopandas
+- [x] Rasterio
